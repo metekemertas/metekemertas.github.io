@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Mete Kemertas"
 description              : &description "personal description"
@@ -85,7 +85,6 @@ author:
   bio              : ""
   location         : "Toronto, Ontario, Canada"
   employer         :
-#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=W6ANHtcAAAAJ&hl=en&oi=ao"
   email            : "kemertas@cs.toronto.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-#   github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +108,7 @@ author:
   stackoverflow    : "5100091/mete-kemertas"
   steam            :
   tumblr           :
-#   twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
