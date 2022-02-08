@@ -51,6 +51,8 @@
         {% elsif post.collection == 'publications' %}
             {% if post.status == 'accepted' %}
               <p>To appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+            {% elsif post.status == 'preprint' %}
+              <p>Preprint, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% else %}
               <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% endif %}
