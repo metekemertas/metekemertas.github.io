@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2025-ot
 excerpt: '**M. Kemertas**, A. Jepson, A.M. Farahmand'
 date: 2025-01-01
-status: accepted
 venue: 'Transactions on Machine Learning Research (TMLR)'
 paperurl: 'https://openreview.net/forum?id=FVFqrxeF8e'
 ---
